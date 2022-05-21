@@ -1,0 +1,7 @@
+framerate = 1 img/sec
+
+stress start = 190
+
+period = 120
+
+treat with 10uM palmitoleic acid overnight before imaging, palmitoleic acid in the flow too.

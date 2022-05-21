@@ -1,0 +1,3 @@
+shear stress start at t = 190
+
+For experimental reference, the cell density is roughly 1/3 of 80-90% confluency for a T25 flask

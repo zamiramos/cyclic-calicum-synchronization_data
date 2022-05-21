@@ -1,0 +1,20 @@
+All three experiments are sharing the same pattern as following:
+
+1 cycle (60s+60s) -> 180s off -> 1 cycle (60s+60s) -> 180s off ....
+
+ncycles = 5
+
+framstart = 70
+
+period = 300
+
+frame rate = 1 frame/sec
+
+high cell density.
+
+total field of view: 1024x1024 pixels
+
+pixel to micro ratio: 0.8 micro per pixel
+
+Lens: 10x objective
+

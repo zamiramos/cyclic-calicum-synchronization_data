@@ -1,0 +1,3 @@
+stress on at 190s
+
+exp1 time line : no stress 190s-> 4 cycles(60s on + 60s off) -> no stress for 120s -> 4 cycles(60s on + 60s off)....

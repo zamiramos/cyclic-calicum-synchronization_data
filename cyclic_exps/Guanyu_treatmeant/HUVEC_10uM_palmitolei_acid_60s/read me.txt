@@ -1,0 +1,5 @@
+HUVEC exp with 10uM palmitoleic acid (flow rate = 0.069uL/mins)
+
+%reduce flow rate to half of the previous palmitoleic acid exp. 
+
+brightness set to be FIM 30%
